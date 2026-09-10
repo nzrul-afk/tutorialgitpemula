@@ -1,0 +1,26 @@
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to b961208
+[33md6d595b[m[33m ([m[1;31morigin/loco[m[33m)[m HEAD@{1}: reset: moving to d6d595b
+[33md6d595b[m[33m ([m[1;31morigin/loco[m[33m)[m HEAD@{2}: reset: moving to loco
+[33md6d595b[m[33m ([m[1;31morigin/loco[m[33m)[m HEAD@{3}: commit: hai
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from main to loco
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from loco to main
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from main to loco
+[33mb961208[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloco[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: cherry-pick: lanangan
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{9}: checkout: moving from haiadmin to main
+[33me537899[m[33m ([m[1;32mhaiadmin[m[33m)[m HEAD@{10}: checkout: moving from main to haiadmin
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{11}: checkout: moving from haiadmin to main
+[33me537899[m[33m ([m[1;32mhaiadmin[m[33m)[m HEAD@{12}: commit: lanangan
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{13}: checkout: moving from main to haiadmin
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{14}: merge haiadmin: Fast-forward
+[33m78e4bf0[m[33m ([m[1;31morigin/admin2[m[33m)[m HEAD@{15}: checkout: moving from haiadmin to main
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{16}: checkout: moving from main to haiadmin
+[33m78e4bf0[m[33m ([m[1;31morigin/admin2[m[33m)[m HEAD@{17}: checkout: moving from haiadmin to main
+[33mb5d933b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/haiadmin[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{18}: commit: dfsdf
+[33m085d074[m HEAD@{19}: commit: kaefjafje
+[33m78e4bf0[m[33m ([m[1;31morigin/admin2[m[33m)[m HEAD@{20}: checkout: moving from main to haiadmin
+[33m78e4bf0[m[33m ([m[1;31morigin/admin2[m[33m)[m HEAD@{21}: merge admin2: Fast-forward
+[33mcd1e50c[m HEAD@{22}: checkout: moving from admin2 to main
+[33m78e4bf0[m[33m ([m[1;31morigin/admin2[m[33m)[m HEAD@{23}: commit: muach
+[33mcd1e50c[m HEAD@{24}: checkout: moving from main to admin2
+[33mcd1e50c[m HEAD@{25}: checkout: moving from master to main
